@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Abdallah Anwar Rezk &#8211; Clothes</title>
+	<atom:link href="https://anwartech1.github.io/Clothes/author/abdallah-anwar-rezk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anwartech1.github.io/Clothes</link>
+	<description>Clothes &#124; Shop Now</description>
+	<lastBuildDate>Sun, 23 Apr 2023 07:22:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://anwartech1.github.io/Clothes/wp-content/uploads/2023/04/7b5fd9f074cf1ec3709271398dcf653a-removebg-preview.png</url>
+	<title>Abdallah Anwar Rezk &#8211; Clothes</title>
+	<link>https://anwartech1.github.io/Clothes</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>When feeling tired of human relationships</title>
+		<link>https://anwartech1.github.io/Clothes/2023/04/23/when-feeling-tired-of-human-relationships/</link>
+					<comments>https://anwartech1.github.io/Clothes/2023/04/23/when-feeling-tired-of-human-relationships/#respond</comments>
+		
+		<dc:creator><![CDATA[Abdallah Anwar Rezk]]></dc:creator>
+		<pubDate>Sun, 23 Apr 2023 07:19:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://anwartech1.github.io/Clothes/?p=106</guid>
+
+					<description><![CDATA[Donec accumsan auctor iaculis. Sed suscipit arcu ligula, at egestas magna molestie a. Proinac ex maximus, ultrices justo eget, sodales...]]></description>
+										<content:encoded><![CDATA[
+<p>Donec accumsan auctor iaculis. Sed suscipit arcu ligula, at egestas magna molestie a. Proin<br>ac ex maximus, ultrices justo eget, sodales orci. Aliquam egestas libero ac turpis pharetra, in<br>vehicula lacus scelerisque. Vestibulum ut sem laoreet.</p>
+
+
+
+<p class="has-woostify-heading-5-font-size"><br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anwartech1.github.io/Clothes/2023/04/23/when-feeling-tired-of-human-relationships/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

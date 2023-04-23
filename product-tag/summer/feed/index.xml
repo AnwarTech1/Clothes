@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>summer &#8211; Clothes</title>
+	<atom:link href="https://anwartech1.github.io/Clothes/product-tag/summer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anwartech1.github.io/Clothes</link>
+	<description>Clothes &#124; Shop Now</description>
+	<lastBuildDate>Sat, 22 Apr 2023 15:36:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://anwartech1.github.io/Clothes/wp-content/uploads/2023/04/7b5fd9f074cf1ec3709271398dcf653a-removebg-preview.png</url>
+	<title>summer &#8211; Clothes</title>
+	<link>https://anwartech1.github.io/Clothes</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Short Sleeve T-Shirt</title>
+		<link>https://anwartech1.github.io/Clothes/product/short-sleeve-t-shirt/</link>
+					<comments>https://anwartech1.github.io/Clothes/product/short-sleeve-t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[Abdallah Anwar Rezk]]></dc:creator>
+		<pubDate>Sat, 22 Apr 2023 15:18:26 +0000</pubDate>
+				<guid isPermaLink="false">https://anwartech1.github.io/Clothes/?post_type=product#038;p=19</guid>
+
+					<description><![CDATA[<strong>Lorem Ipsum </strong>is simply dummy text of the printing and typesetting industry, Lorem Ipsum is simply
+
+dummy text of the printing and typesetting industry.]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><strong>Lorem Ipsum </strong>is simply dummy text of the printing and typesetting industry.</p>
+<ul>
+<li style="text-align: left;"><strong>Lorem Ipsum</strong></li>
+<li style="text-align: left;"><strong>Lorem Ipsum</strong></li>
+<li style="text-align: left;"><strong>Lorem Ipsum</strong></li>
+<li style="text-align: left;"><strong>Lorem Ipsum</strong></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anwartech1.github.io/Clothes/product/short-sleeve-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

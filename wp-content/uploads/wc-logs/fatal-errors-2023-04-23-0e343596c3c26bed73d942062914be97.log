@@ -1,0 +1,25 @@
+2023-04-23T07:57:51+00:00 CRITICAL Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\xampp\htdocs\clothes\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\xampp\htdocs\clothes\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\xampp\htdocs\clothes\wp-admin\includes\ajax-actions.php(2395): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\clothes\wp-includes\class-wp-hook.php(308): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\clothes\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\clothes\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\clothes\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\clothes\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+
+2023-04-23T16:45:55+00:00 CRITICAL Uncaught Error: Class "Elementor\App\App" not found in C:\xampp\htdocs\clothes\wp-content\plugins\elementor\includes\plugin.php:750
+Stack trace:
+#0 C:\xampp\htdocs\clothes\wp-content\plugins\elementor\includes\plugin.php(647): Elementor\Plugin->init_components()
+#1 C:\xampp\htdocs\clothes\wp-includes\class-wp-hook.php(308): Elementor\Plugin->init('')
+#2 C:\xampp\htdocs\clothes\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\clothes\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\clothes\wp-settings.php(623): do_action('init')
+#5 C:\xampp\htdocs\clothes\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\clothes\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\clothes\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\clothes\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\clothes\wp-content\plugins\elementor\includes\plugin.php on line 750
+
